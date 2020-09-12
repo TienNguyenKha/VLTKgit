@@ -1,4 +1,5 @@
 #include "PhanSo.h"
+//cc
 istream& operator>>(istream& input, PhanSo& ps)
 {
 	cout << "\nnhap tu " << endl;
